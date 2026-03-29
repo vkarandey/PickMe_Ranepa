@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+aiogram
+httpx
+psycopg2-binary
+sqlalchemy
+python-dotenv
+openai
+pymilvus
+sentence-transformers
+openpyxl
+groq
+redis
+anyio
+telethon
